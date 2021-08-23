@@ -1,0 +1,13 @@
+{
+	"dependencies": {
+		"@babel/parser": "^7.15.3",
+		"acorn": "^8.4.1",
+		"ansi-colors": "^4.1.1",
+		"esprima": "^4.0.1",
+		"hermes-parser": "^0.4.8",
+		"meriyah": "^4.2.0",
+		"recast": "^0.20.5",
+		"seafox": "^1.7.1",
+		"shift-parser": "^7.0.3"
+	}
+}
